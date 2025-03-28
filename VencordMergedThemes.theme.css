@@ -1,0 +1,37 @@
+/* This file merges multiple Vencord themes into a single manageable file */
+
+/* Discord Recolor */
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css);
+
+/* EmojiReplace (Microsoft-3D) */
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft-3D.css);
+
+/* Discolored */
+@import url(https://nyri4.github.io/Discolored/support/discolored.theme.css);
+
+/* Settings Modal */
+@import url(https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/refs/heads/master/Themes/SettingsModal/SettingsModal.theme.css);
+
+/* Float */
+@import url(https://raw.githubusercontent.com/maenDisease/BetterDiscordStuff/refs/heads/main/Themes/Float/zFloat.theme.css);
+
+/* Horizontal Server List */
+@import url(https://raw.githubusercontent.com/DiscordStyles/HorizontalServerList/deploy/HorizontalServerList.theme.css);
+
+/* Discord Recolor (Red Variables) */
+:root {
+	--settingsicons:	1;
+	--font:				"Segoe UI Variable", "Segoe UI", "gg sans", "Noto Sans";
+	
+	--accentcolor:		255,0,0;
+	--accentcolor2:		255,50,50;
+	--linkcolor:		255,0,0;
+	--mentioncolor:		255,0,0;
+
+	--backgroundaccent:				36,36,36;
+	--backgroundprimary:			14,12,12;
+	--backgroundsecondary:			9,7,7;
+	--backgroundsecondaryalt:		2,2,2;
+	--backgroundtertiary:			0,0,0;
+	--backgroundfloating:			0,0,0;
+};
