@@ -1,5 +1,8 @@
 /* This file merges multiple Vencord themes into a single manageable file */
 
+/* Horizontal Server List */
+@import url(https://raw.githubusercontent.com/DiscordStyles/HorizontalServerList/deploy/HorizontalServerList.theme.css);
+
 /* Discord Recolor */
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css);
 
@@ -14,9 +17,6 @@
 
 /* Float */
 @import url(https://raw.githubusercontent.com/maenDisease/BetterDiscordStuff/refs/heads/main/Themes/Float/zFloat.theme.css);
-
-/* Horizontal Server List */
-@import url(https://raw.githubusercontent.com/DiscordStyles/HorizontalServerList/deploy/HorizontalServerList.theme.css);
 
 /* Discord Recolor (Red Variables) */
 :root {
