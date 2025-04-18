@@ -27,17 +27,23 @@
 /* Discord Recolor (Red Variables) */
 :root {
 	--settingsicons:	1;
-	--font:				"Segoe UI Variable", "Segoe UI", "gg sans", "Noto Sans";
+	--font:			"Segoe UI Variable", "Segoe UI", "gg sans", "Noto Sans";
 	
 	--accentcolor:		255,0,0;
 	--accentcolor2:		255,50,50;
 	--linkcolor:		255,0,0;
 	--mentioncolor:		255,0,0;
 
-	--backgroundaccent:				36,36,36;
-	--backgroundprimary:			14,12,12;
-	--backgroundsecondary:			9,7,7;
-	--backgroundsecondaryalt:		2,2,2;
-	--backgroundtertiary:			0,0,0;
-	--backgroundfloating:			0,0,0;
+	--backgroundaccent:		36,36,36;
+	--backgroundprimary:		14,12,12;
+	--backgroundsecondary:		9,7,7;
+	--backgroundsecondaryalt:	2,2,2;
+	--backgroundtertiary:		0,0,0;
+	--backgroundfloating:		0,0,0;
+
+	--guildbar-avatar-size:		38px;
+    	--blob-scale:			40;
+
+    	--guildbar-folder-size:		var(--guildbar-avatar-size);
+    	--folder-blob-scale:		var(--blob-scale);
 };
