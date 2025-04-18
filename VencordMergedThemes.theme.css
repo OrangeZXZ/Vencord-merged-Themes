@@ -41,8 +41,8 @@
 	--backgroundtertiary:		0,0,0;
 	--backgroundfloating:		0,0,0;
 
-	--guildbar-avatar-size:		40px;
-    	--blob-scale:			45;
+	--guildbar-avatar-size:		50px;
+    	--blob-scale:			30;
 
     	--guildbar-folder-size:		var(--guildbar-avatar-size);
     	--folder-blob-scale:		var(--blob-scale);
