@@ -13,7 +13,7 @@
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css");
 
 /* EmojiReplace (Microsoft-3D) */
-@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft-3D.css");
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Google.css");
 
 /* Discolored */
 @import url("https://nyri4.github.io/Discolored/support/discolored.theme.css");
@@ -27,7 +27,6 @@
 /* Discord Recolor (Red Variables) */
 :root {
 	--settingsicons:	1;
-	--font:			"Segoe UI Variable", "Segoe UI", "gg sans", "Noto Sans";
 	
 	--accentcolor:		255,0,0;
 	--accentcolor2:		255,50,50;
