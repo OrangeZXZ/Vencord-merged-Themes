@@ -29,16 +29,16 @@
 	--settingsicons:	1;
 	
 	--accentcolor:		255,0,0;
-	--accentcolor2:		255,50,50;
+	--accentcolor2:		255,0,0;
 	--linkcolor:		255,0,0;
 	--mentioncolor:		255,0,0;
 
 	--backgroundaccent:		36,36,36;
-	--backgroundprimary:		14,12,12;
-	--backgroundsecondary:		9,7,7;
-	--backgroundsecondaryalt:	2,2,2;
-	--backgroundtertiary:		0,0,0;
-	--backgroundfloating:		0,0,0;
+	--backgroundprimary:		52,52,55;
+	--backgroundsecondary:		34,34,38;
+	--backgroundsecondaryalt:	34,34,28;
+	--backgroundtertiary:		40,40,44;
+	--backgroundfloating:		40,40,44;
 
 	--guildbar-avatar-size:		44px;
     	--blob-scale:			44;
