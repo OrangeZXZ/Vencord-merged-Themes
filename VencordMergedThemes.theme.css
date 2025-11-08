@@ -1,28 +1,11 @@
-/* This file merges multiple Vencord themes into a single manageable file */
-
-/* Compact / Hide Visual Refresh Title Bar */
-/* @import url('https://raw.githubusercontent.com/surgedevs/visual-refresh-compact-title-bar/refs/heads/main/desktop.css'); */
-
 /* Revert Visual Refresh Server List */
-@import url("https://scattagain.github.io/VencordStuff/css/GuildbarRevert.css");
-
-/* Horizontal Server List */
-/* @import url("https://raw.githubusercontent.com/DiscordStyles/HorizontalServerList/deploy/HorizontalServerList.theme.css"); */
+/* @import url("https://scattagain.github.io/VencordStuff/css/GuildbarRevert.css"); */
 
 /* Discord Recolor */
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css");
 
 /* EmojiReplace (Google) */
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Google.css");
-
-/* Discolored */
-@import url("https://nyri4.github.io/Discolored/support/discolored.theme.css");
-
-/* Settings Modal */
-@import url("https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/refs/heads/master/Themes/SettingsModal/SettingsModal.theme.css");
-
-/* Float */
-@import url("https://raw.githubusercontent.com/maenDisease/BetterDiscordStuff/refs/heads/main/Themes/Float/zFloat.theme.css");
 
 /* Discord Recolor (Red Variables) */
 :root {
