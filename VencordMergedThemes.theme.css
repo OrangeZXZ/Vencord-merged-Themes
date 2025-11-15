@@ -1,16 +1,5 @@
-/* Revert Visual Refresh Server List */
-/* @import url("https://scattagain.github.io/VencordStuff/css/GuildbarRevert.css"); */
-
-/* Discord Recolor */
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/DiscordRecolor/DiscordRecolor.css");
 
-/* EmojiReplace (Google) */
-@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Google.css");
-
-/* Revert Visual Refresh Server List */
-@import url("https://scattagain.github.io/VencordStuff/css/GuildbarRevert.css");
-
-/* Discord Recolor (Red Variables) */
 :root {
 	--settingsicons:	1;
 	
